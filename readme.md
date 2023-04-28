@@ -17,31 +17,11 @@ The structure of a junit test class is as follows: every one of the test classes
 
 In order to run the tests, you should be able to run them in intellij in the same way that you run any main class (the 'magic green button' to the left of your code). Mind that, in intellij, the 'magic green button' at the top right of the class reflects the last-run class, not the class you are currently looking at. You could also use maven command mvn:test, but that will run all the test cases which will take too long.
 
-## Approximate deadlines
-
-|         | for 10 week cohorts  |
-|---------|----------------------|
-| week 1  | chapter 1-3 complete |
-| week 2  | chapter 4-6 complete |
-| week 3  | chapter 7 complete   |
-| week 4  |                      |
-| week 5  |                      |
-| week 6  |                      |
-| week 7  |                      |
-| week 8  |                      |
-| week 9  | chapter 8 complete   |
-| week 10 |                      |
-| staging | chapter 9 complete   |
-
-
-If you are able to proceed at a faster pace, please do so, and I also recommend continuing incomplete content into Staging.
-
 ## Take breaks
 
 "Every day we should hear at least one little song, read one good poem, see one exquisite picture, and, if possible, speak a few sensible words." *Johann Wolfgang von Goethe*
 
-# License information
-This repository and the code contained may not be distributed without the express written permission of Theodore Balashov. This content may not be publicly posted anywhere or shared with anyone who is not a present Revature employee. Permission for personal use does NOT constitute permission to freely distribute. Present Revature employees are permitted use the contained content for their own enrichment. You may contact Theodore at theodore.balashov@revature.com for inquiries.
+This repository may not be distributed without the express permission of Theodore Balashov
 
 All the best
 
